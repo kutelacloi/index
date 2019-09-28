@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.box {
+	width: 1280px;
+	height: auto;
+	background-color: #3265DA;
+	margin: 0 auto;
+}
+
+nav {
+	width: 1280px;
+	height: 726px;
+	background-color: aqua;
+}
+header {
+	width: 1280px;
+	height: 100px;
+	background-color: #4eaae9;
+}
+
+.logo {
+	
+	width: 107px;
+	height: 50px;
+    float: left;
+    margin-left: 190px;
+	line-height: 120px;
+}
+
+header a {
+	
+	font-weight: 200;
+	text-decoration: none;
+	line-height: 105px;
+	margin-left: 50px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 15px;
+	color: #FFFFFF;
+}
+
+aside{
+	width: 1280px;
+	height: 400px;
+	background-color: #3265da;
+}
+
+section{
+	width: 213px;
+	height: 280px;
+	background-color: #4675DD;
+	margin: 15px;
+	float: left;
+	margin-bottom: 70px;
+	margin-top: 70px;
+	
+}
+
+section {
+	text-align: center;
+	color: #FFFFFF;
+	
+}
+
+main {
+	width: 1280px;
+	height: 570px;
+	background-color:#FFFFFF;
+}
+
+article{
+	margin-right: 190px;
+	float: right;
+	margin-top: 150px;
+}
+
+.w3-button{
+	border-radius: 20%;
+	margin-top: 20px;
+	
+}
+
+
+
+.best {
+	width: 1280px;
+	height: 350px;
+	background-color: #FFFFFF;
+}
+
+.best img {
+	float: left;
+	margin: 32px;
+	margin-top: 150px;
+}
+
+.best a {
+	float: left;
+	margin-right: 32px;
+	margin-top: 150px;
+}
+
+
+
+.solieu {
+	width: 1280px;
+	height: 300px;
+	background-color: #2a354b;
+}
+
+
+
+
+
+.work {
+	width: 1280px;
+	height: 550px;
+	background-color: #FFFFFF;
+}
+.work img {
+	margin-top: 73px;
+	margin-right:32px;
+    float: left;
+	
+}
+
+.vanban {
+	margin-top: 73px;
+	font-size: 30px;
+	float: left;
+
+
+}
+
+.vanban h1{
+    font-size: 30px;
+}
+
+.vanban a1 {
+	font-size: 18px;
+  float: left;
+}
+
+.glyphicon-unchecked {
+	float: left;
+	margin-right: 200px;
+    margin-bottom: 20px;
+
+}
+
+.comment {
+	width: 1280px;
+	height: 270px;
+	background-color: #f5f5f5;
+}
+
+.noidung {
+	padding-top: 80px
+}
+
+
+.buss {
+	width: 1280px;
+	height: 250px;
+	background-color: #FFFFFF;
+	
+}
+
+.buss img {
+	margin-right: 50px;
+	margin-top: 75px;
+}
+
+
+.phone {
+	width: 1280px;
+	height: 500px;
+	background-color: #3265da;
+}
+.phone img{
+	margin-right: 160px;
+	margin-top: 375px;
+	
+	
+}
+
+footer {
+	width: 1280px;
+	height: 320px;
+	background-color:#23262b;
+	margin: 0 auto;
+}
+
+footer h1 {
+	color: #afa874;
+	font-size: 22px;
+	font-weight: 600;
+	padding-top: 75px;
+	margin-left: 550px;
+
+}
+
+
+footer a1 {
+	margin-right: 35px;
+	font-size: 15px;
+    font-weight: 200;
+	text-decoration: none;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
